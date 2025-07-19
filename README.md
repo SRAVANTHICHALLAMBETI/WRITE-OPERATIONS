@@ -152,3 +152,9 @@ RTL schematic design and register-based memory implementation
 
 You have designed and verified a working synchronous RAM system using Vivado 2023.2, Verilog, and functional simulation. This task is not just academic — it's a real-world digital design component used in many advanced systems.
 
+
+
+#OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e362cc99-9545-4a6a-b637-55f79418d4f3" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/039ae9bb-f992-4d5a-bb33-2b1564c257a5" />
